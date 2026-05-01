@@ -1,0 +1,19 @@
+{
+  "name": "base-wallet-pro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.1.0",
+    "@tanstack/react-query": "^5.0.0",
+    "viem": "^2.7.0",
+    "wagmi": "^2.5.0",
+    "next": "14.2.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
