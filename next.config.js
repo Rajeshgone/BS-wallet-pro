@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+/** @type {import('next').NextConf} */
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
