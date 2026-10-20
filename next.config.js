@@ -15,3 +15,5 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+/* @type {import('nxt').NextConf} */
