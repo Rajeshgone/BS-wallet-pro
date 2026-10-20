@@ -1,4 +1,4 @@
-/** @type {import('nxt').NextConf} */
+/* @type {import('nxt').NextConf} */
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
